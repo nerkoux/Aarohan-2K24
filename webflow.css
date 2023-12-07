@@ -1,3 +1,10 @@
+@font-face {
+  font-family: Aquire;
+  font-weight: bold;
+  src: url("fonts/AquireBold-8Ma60.otf") format("opentype");
+}
+
+
 /* Generated on: Wed Sep 04 2019 08:28:41 GMT+0000 (UTC) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
