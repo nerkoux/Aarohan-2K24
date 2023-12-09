@@ -19,6 +19,96 @@
 /* ==========================================================================
    Start of custom Webflow CSS
    ========================================================================== */
+
+   .events {
+    display: flex;
+    padding: 100px;
+    justify-content: space-evenly;
+  }
+  
+  .card {
+    --background: linear-gradient(to left, #f7ba2b 0%, #ea5358 100%);
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    height: 500px;
+    padding: 5px;
+    border-radius: 1rem;
+    margin: 30px;
+    overflow: visible;
+    background: #f7ba2b;
+    background: var(--background);
+    position: relative; 
+    z-index: 1;
+  }
+  
+  .card::after {
+    position: absolute;
+    content: "";
+    top: 30px;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    height: 100%;
+    width: 100%;
+    transform: scale(0.8);
+    filter: blur(25px);
+    background: #f7ba2b;
+    background: var(--background);
+    transition: opacity .5s;
+  }
+  
+  .card-info {
+    --color: #181818;
+    background: var(--color);
+    color: var(--color);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+    border-radius: .7rem;
+  }
+  
+  .card-info h3 {
+    font-size: 30px;
+  }
+  
+  .card .title {
+    font-weight: bold;
+    letter-spacing: .1em;
+  }
+  
+  /Hover/
+  .card:hover::after {
+    opacity: 0;
+  }
+  
+  .card:hover .card-info {
+    color: #f7ba2b;
+    transition: color 1s;
+  }
+  
+  .tecImg1 {
+    margin: 10px;
+    height: 200px;
+    width: 200px;
+    border: 2px solid white;
+  }
+  
+  .eventBtns {
+    text-align: center;
+    display: flex;
+    gap: 30px;
+  }
+  
+  .eventBtns button {
+    padding: 6px 30px;
+  
+  }
+
 .w-layout-grid {
   display: -ms-grid;
   display: grid;
@@ -34,7 +124,7 @@
 body {
   background-color: #000;
   font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
-  color: #333;
+  color: #060606;
   font-size: 14px;
   line-height: 20px;
 }
