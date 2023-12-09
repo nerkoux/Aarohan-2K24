@@ -2543,7 +2543,11 @@ li {
 .bg-main {
   width: 100%;
   height: 100vh;
+<<<<<<< HEAD
   background-image: url("img/parallex/bg2.png");
+=======
+  background-image: url("./img/parallex/kykasinbi_cyberpunk_japanese_gate_entry_man_on_the_gate_cbd1ddaa-a430-4190-9e92-a2eb13efbb8d.webp");
+>>>>>>> e698e84efcd289e7cc418284cb8859e45c52d316
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2556,7 +2560,11 @@ li {
   overflow: visible;
   width: 100%;
   height: 150vh;
+<<<<<<< HEAD
   background-image: url("img/parallex/bgs.png");
+=======
+  /* background-image: url("img/parallex/leafsM.png"); */
+>>>>>>> e698e84efcd289e7cc418284cb8859e45c52d316
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -2695,7 +2703,11 @@ li {
 .hero-parent {
   position: absolute;
   left: 0%;
+<<<<<<< HEAD
   top: -20%;
+=======
+  top: -14%;
+>>>>>>> e698e84efcd289e7cc418284cb8859e45c52d316
   right: auto;
   bottom: auto;
   z-index: 1;
