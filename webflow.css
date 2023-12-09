@@ -869,6 +869,7 @@ li {
 }
 
 .overlay-intro {
+  background-image: url("img/loader/aot.png");
   position: fixed;
   left: 0%;
   top: 0%;
@@ -894,8 +895,8 @@ li {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #161616;
 }
+ 
 
 .bar-line {
   position: absolute;
