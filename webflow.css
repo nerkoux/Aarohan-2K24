@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Ceviche+One&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Ceviche+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap'); */
 
 /* Generated on: Wed Sep 04 2019 08:28:41 GMT+0000 (UTC) */
 /* ==========================================================================
@@ -2543,12 +2543,10 @@ li {
 .bg-main {
   width: 100%;
   height: 100vh;
-<<<<<<< HEAD
-  background-image: url("img/parallex/bg2.png");
-=======
-  background-image: url("./img/parallex/kykasinbi_cyberpunk_japanese_gate_entry_man_on_the_gate_cbd1ddaa-a430-4190-9e92-a2eb13efbb8d.webp");
->>>>>>> e698e84efcd289e7cc418284cb8859e45c52d316
-  background-position: 50% 50%;
+  <<<<<<< HEAD <<<<<<< HEAD background-image: url("img/parallex/bg2.png");
+  =======background-image: url("./img/parallex/kykasinbi_cyberpunk_japanese_gate_entry_man_on_the_gate_cbd1ddaa-a430-4190-9e92-a2eb13efbb8d.webp");
+  >>>>>>>e698e84efcd289e7cc418284cb8859e45c52d316=======background-image: url("./img/gallery/bg.jpg");
+  >>>>>>>dcc03542775bb0ac165e74ff0491849598f26494 background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -2560,12 +2558,11 @@ li {
   overflow: visible;
   width: 100%;
   height: 150vh;
-<<<<<<< HEAD
-  background-image: url("img/parallex/bgs.png");
-=======
+  <<<<<<< HEAD <<<<<<< HEAD background-image: url("img/parallex/bgs.png");
+  =======
   /* background-image: url("img/parallex/leafsM.png"); */
->>>>>>> e698e84efcd289e7cc418284cb8859e45c52d316
-  background-position: 50% 50%;
+  >>>>>>>e698e84efcd289e7cc418284cb8859e45c52d316=======background-image: url("img/parallex/bgs.png");
+  >>>>>>>dcc03542775bb0ac165e74ff0491849598f26494 background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -2703,12 +2700,9 @@ li {
 .hero-parent {
   position: absolute;
   left: 0%;
-<<<<<<< HEAD
-  top: -20%;
-=======
-  top: -14%;
->>>>>>> e698e84efcd289e7cc418284cb8859e45c52d316
-  right: auto;
+  <<<<<<< HEAD top: -20%;
+  =======top: -14%;
+  >>>>>>>e698e84efcd289e7cc418284cb8859e45c52d316 right: auto;
   bottom: auto;
   z-index: 1;
   display: -webkit-box;
