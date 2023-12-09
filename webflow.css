@@ -367,12 +367,7 @@ li {
 .bg-main {
   width: 100%;
   height: 100vh;
-<<<<<<< HEAD
-  background-image: url("img/parallex/bg2.png");
-  background-image: url("./img/parallex/kykasinbi_cyberpunk_japanese_gate_entry_man_on_the_gate_cbd1ddaa-a430-4190-9e92-a2eb13efbb8d.webp");
-=======
-  background-image: url("./img/gallery/bg.jpg");
->>>>>>> 1133804306636e672e92d0faa12aa60f5ffd25e7
+  background-image: url("./img/parallex/bg2.png");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -385,18 +380,13 @@ li {
   overflow: visible;
   width: 100%;
   height: 150vh;
-<<<<<<< HEAD
-  HEAD background-image: url("img/parallex/bgs.png");
-  /* background-image: url("img/parallex/leafsM.png"); */
-=======
+  background-image: url("img/parallex/bgs.png");
   background-image: url("img/parallex/bgs.png"); 
->>>>>>> 1133804306636e672e92d0faa12aa60f5ffd25e7
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-<<<<<<< HEAD
 
 /* Event cards */
 
@@ -491,8 +481,6 @@ li {
 
 /* event end */
 
-=======
->>>>>>> 1133804306636e672e92d0faa12aa60f5ffd25e7
 .scroll-container-1 {
   position: relative;
   width: 100%;
