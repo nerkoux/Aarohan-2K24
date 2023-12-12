@@ -1952,7 +1952,7 @@ li {
 }
 
 .text-block-parent-1 {
-  background-image: url("https://aarohancdn.debugclub.tech/studentscouncil.png");
+  background-image: url("https://aarohancdn.debugclub.tech/studentscouncil1.png");
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -1978,6 +1978,7 @@ li {
 
   .text-block-parent-1 p {
   font-size: 6em;
+  text-align: center;
   font-weight: 500;
   color: #222;
   letter-spacing: 2px;
