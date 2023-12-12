@@ -1976,6 +1976,28 @@ li {
   align-items: center;
 }
 
+  .text-block-parent-1 p {
+  font-size: 6em;
+  font-weight: 500;
+  color: #222;
+  letter-spacing: 2px;
+  cursor: pointer;
+  text-transform: uppercase;
+  transition: 1s;
+}
+
+.text-block-parent-1 p:hover {
+  color: red;
+  text-shadow: 0 0 5px red,
+              0 0 25px red,
+              0 0 50px red,
+              0 0 100px red;
+}   
+
+
+
+   
+
 .people {
   position: absolute;
   left: 0%;
@@ -1989,6 +2011,9 @@ li {
   -webkit-filter: blur(2px);
   filter: blur(2px);
 }
+
+
+
 
 .skull {
   position: absolute;
