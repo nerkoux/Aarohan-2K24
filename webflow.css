@@ -1952,7 +1952,7 @@ li {
 }
 
 .text-block-parent-1 {
-  background-image: url(img/gallery/studentscouncil.png);
+  background-image: url("https://aarohancdn.debugclub.tech/studentscouncil.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
