@@ -19,6 +19,20 @@
 /* ==========================================================================
    Start of custom Webflow CSS
    ========================================================================== */
+
+
+   #myVideo {
+    background-color: black;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width:100px;
+    height:100px;
+    margin:auto;
+  }
+
 .w-layout-grid {
   display: -ms-grid;
   display: grid;
