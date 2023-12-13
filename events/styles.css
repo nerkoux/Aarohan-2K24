@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Panchang', sans-serif;
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+.main {
+    height: 94vh;
+    width: 100%;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    margin-top: -160px;
+}
+
+.categories {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.categories button {
+    width: 200%;
+    height: 80px;
+    padding: 20px 0px;
+    display: inline-block;
+    font-size: 30px;
+    box-shadow: 0 1px 1px rgba(255, 255, 255, 0.08), 0 4px 4px rgba(255, 255, 255, 0.12), 0 4px 4px rgba(255, 255, 255, 0.16), 0 8px 8px rgba(168, 168, 168, 0.2);
+    background-color: #FFF78A;
+    border-radius: 4px;
+    border: 1px solid white;
+    transition: 0.4s;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.categories button:hover {
+    background-color: #fff;
+    border: 1px solid #FFF78A;
+    color: #FFF78A;
+}
+
+a:hover {
+    color: black;
+}
+
+@media only screen and (max-width: 425px) {
+    .categories button {
+        width: 138%;
+    }
+}
+
+/* cards */
+
+h2 {
+    color: white;
+    text-shadow: #FFF78A 1px 0 10px;
+    font-size: 40px;
+    margin: 20px;
+    text-align: center;
+}
+
+.category {
+    text-align: center;
+}
+
+.card {
+    margin: 40px;
+    box-sizing: border-box;
+    width: 280px;
+    height: 400px;
+    text-align: center;
+    border: 2px solid #FFF78A;
+    box-shadow: #FFF78A 0 10px 20px -5px;
+    backdrop-filter: blur(6px);
+    border-radius: 17px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.5s;
+    display: inline-block;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    user-select: none;
+    font-weight: bolder;
+}
+
+.card h3 {
+    font-size: 20px;
+    margin: 10px;
+}
+
+.card p {
+    font-size: 20px;
+    margin: 10px;
+}
+
+.btns {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.btns button {
+    cursor: pointer;
+    padding: 10px 20px;
+    background: #FFF78A;
+    border: 1px solid white;
+    transition: .5s;
+}
+
+.btns button:hover {
+    background: rgba(97, 97, 97, 0.58);
+    border: 1px solid #FFF78A;
+}
+
+.eventPoster {
+    border: 2px solid white;
+    height: 200px;
+    margin: auto;
+    width: 90%;
+    margin-bottom: 20px;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card:active {
+    transform: scale(0.95) rotateZ(1.7deg);
+}
+
+footer span {
+    color: #FFF78A;
+}
