@@ -21,6 +21,53 @@
    ========================================================================== */
 
 
+   /* Gallery */
+   .galleryMain{
+    padding-top: 120px;
+    display: flex;
+    gap: 20px;
+  }
+  .galleryMain h1{
+    margin: auto;
+  }
+  .gallery {
+    --s: 150px; /* control the size */
+    --g: 10px;  /* control the gap */
+    --f: 1.5;   /* control the scale factor */
+    display: grid;
+    gap: var(--g);
+    width: calc(3*var(--s) + 2*var(--g));
+    aspect-ratio: 1;
+    grid-template-columns: repeat(3,auto);
+  }
+  
+  .gallery > img {
+    width: 0;
+    height: 0;
+    min-height: 100%;
+    min-width: 100%;
+    object-fit: cover;
+    cursor: pointer;
+    filter: grayscale(80%);
+    transition: .35s linear;
+  }
+  
+  .gallery img:hover{
+    filter: grayscale(0);
+    width:  calc(var(--s)*var(--f));
+    height: calc(var(--s)*var(--f));
+  }
+  
+  
+  body {
+    margin: 0;
+    min-height: 100vh;
+     display: grid; 
+     place-content: center; 
+    background: #60c4ff;
+  }
+
+
    #myVideo {
     background-color: black;
     position: fixed;
