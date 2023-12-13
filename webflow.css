@@ -19,6 +19,71 @@
 /* ==========================================================================
    Start of custom Webflow CSS
    ========================================================================== */
+   +
+
+   .galleryMain{
+    align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    display: flex;
+    gap: 20px;
+  }
+  .galleryMain h1{
+    margin: auto;
+  }
+  .gallery {
+    --s: 150px; /* control the size */
+    --g: 10px;  /* control the gap */
+    --f: 1.5;   /* control the scale factor */
+    
+    display: grid;
+    gap: var(--g);
+    width: calc(3*var(--s) + 2*var(--g));
+    aspect-ratio: 1;
+    grid-template-columns: repeat(3,auto);
+  }
+  
+  .gallery > img {
+    width: 0;
+    height: 0;
+    min-height: 100%;
+    min-width: 100%;
+    object-fit: cover;
+    cursor: pointer;
+    filter: grayscale(80%);
+    transition: .35s linear;
+  }
+  
+  .gallery img:hover{
+    filter: grayscale(0);
+    width:  calc(var(--s)*var(--f));
+    height: calc(var(--s)*var(--f));
+  }
+  
+  
+  body {
+    margin: 0;
+    min-height: 100vh;
+     display: grid; 
+     place-content: center; 
+    background: #60c4ff;
+  }
+
+   #myVideo {
+    background-color: black;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width:100px;
+    height:100px;
+    margin:auto;
+  }
+
 .w-layout-grid {
   display: -ms-grid;
   display: grid;
@@ -117,7 +182,7 @@ li {
 }
 
 .logo-lg {
-  margin-top: 20px;
+  margin-top: -4px;
 }
 
 .head {
@@ -290,7 +355,7 @@ li {
   overflow: visible;
   width: 100%;
   height: 150vh;
-  background-image: url("https://taupe-buttercream-28979f.netlify.app/img/parallex/bgs.png"); 
+  background-image: url("img/parallex/bgsl.png"); 
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1952,7 +2017,7 @@ li {
 }
 
 .text-block-parent-1 {
-  background-image: url("https://aarohancdn.debugclub.tech/studentscouncil.png");
+  background-image: url("https://aarohancdn.debugclub.tech/studentscouncil1.png");
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -1978,6 +2043,7 @@ li {
 
   .text-block-parent-1 p {
   font-size: 6em;
+  text-align: center;
   font-weight: 500;
   color: #222;
   letter-spacing: 2px;
