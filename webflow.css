@@ -149,6 +149,27 @@ p {
 } 
 
 
+/* Media query for smaller screens (e.g., mobile devices) */
+@media (max-width: 767px) {
+  .horizontal-scroll-wrapper {
+    transform: rotate(0);
+    overflow-y: auto;
+    overflow-x: auto; /* Enable horizontal scrolling on small screens */
+    white-space: nowrap; /* Prevent items from wrapping to the next line */
+  }
+
+  .img-wrapper {
+    transform: none;
+    min-height: auto;
+    transition: none;
+  }
+
+  .img-wrapper:hover {
+    min-height: auto;
+  }
+}
+
+
    #myVideo {
     background-color: black;
     position: fixed;
