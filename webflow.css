@@ -35,15 +35,6 @@
 
 
 
-@media (max-width: 767px) {
-  .external {;
-    align-items: center;
-    transform: rotate(0);
-    overflow-y: auto;
-    overflow-x: hidden; /* Enable horizontal scrolling on small screens */
-  }
-  }
-
  .external {
   overflow: hidden;
   height: 100vh;
@@ -157,27 +148,6 @@ p {
     fill: currentcolor;
 } 
 
-
-/* Media query for smaller screens (e.g., mobile devices) */
-@media (max-width: 767px) {
-  .horizontal-scroll-wrapper {;
-    align-items: center;
-    transform: rotate(0);
-    overflow-y: auto;
-    overflow-x: hidden; /* Enable horizontal scrolling on small screens */
-  }
-
-  .img-wrapper {
-    align-items: center;
-    transform: none;
-    min-height: auto;
-    transition: none;
-  }
-
-  .img-wrapper:hover {
-    min-height: auto;
-  }
-}
 
 
    #myVideo {
