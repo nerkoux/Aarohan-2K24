@@ -155,7 +155,7 @@ p {
     align-items: center;
     transform: rotate(0);
     overflow-y: auto;
-    overflow-x: auto; /* Enable horizontal scrolling on small screens */
+    overflow-x: hidden; /* Enable horizontal scrolling on small screens */
     white-space: nowrap; /* Prevent items from wrapping to the next line */
   }
 
