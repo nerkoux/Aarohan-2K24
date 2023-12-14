@@ -156,7 +156,6 @@ p {
     transform: rotate(0);
     overflow-y: auto;
     overflow-x: hidden; /* Enable horizontal scrolling on small screens */
-    white-space: nowrap; /* Prevent items from wrapping to the next line */
   }
 
   .img-wrapper {
