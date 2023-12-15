@@ -39,7 +39,7 @@ h1 {
     display: inline-block;
     font-size: 30px;
     box-shadow: 0 1px 1px rgba(255, 255, 255, 0.08), 0 4px 4px rgba(255, 255, 255, 0.12), 0 4px 4px rgba(255, 255, 255, 0.16), 0 8px 8px rgba(168, 168, 168, 0.2);
-    background-color: #7E30E1;
+    background-color: #4DCFEF;
     border-radius: 4px;
     border: 1px solid white;
     transition: 0.4s;
@@ -52,8 +52,8 @@ a {
 
 .categories button:hover {
     background-color: #fff;
-    border: 1px solid #7E30E1;
-    color: #7E30E1;
+    border: 1px solid #4DCFEF;
+    color: #4DCFEF;
 }
 
 a:hover {
@@ -70,7 +70,7 @@ a:hover {
 
 h2 {
     color: white;
-    text-shadow: #7E30E1 1px 0 10px;
+    text-shadow: #4DCFEF 1px 0 10px;
     font-size: 40px;
     margin: 20px;
     text-align: center;
@@ -86,8 +86,8 @@ h2 {
     width: 280px;
     height: 400px;
     text-align: center;
-    border: 2px solid #7E30E1;
-    box-shadow: #7E30E1 0 10px 20px -5px;
+    border: 2px solid #4DCFEF;
+    box-shadow: #4DCFEF 0 10px 20px -5px;
     backdrop-filter: blur(6px);
     border-radius: 17px;
     text-align: center;
@@ -120,14 +120,14 @@ h2 {
 .btns button {
     cursor: pointer;
     padding: 10px 20px;
-    background: #7E30E1;
+    background: #4DCFEF;
     border: 1px solid white;
     transition: .5s;
 }
 
 .btns button:hover {
     background: rgba(97, 97, 97, 0.58);
-    border: 1px solid #7E30E1;
+    border: 1px solid #4DCFEF;
 }
 
 .eventPoster {
@@ -147,5 +147,26 @@ h2 {
 }
 
 footer span {
-    color: #7E30E1;
+    color: #4DCFEF;
+}
+
+.pgc {
+    color: black;
+    font-weight: bold;
+}
+
+.outside {
+    color: black;
+    font-weight: bold;
+}
+
+
+.pgc:hover {
+    color: #7DE7F9;
+    font-weight: normal;
+}
+
+.outside:hover {
+    color: #7DE7F9;
+    font-weight: normal;
 }
