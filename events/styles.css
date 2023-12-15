@@ -39,7 +39,7 @@ h1 {
     display: inline-block;
     font-size: 30px;
     box-shadow: 0 1px 1px rgba(255, 255, 255, 0.08), 0 4px 4px rgba(255, 255, 255, 0.12), 0 4px 4px rgba(255, 255, 255, 0.16), 0 8px 8px rgba(168, 168, 168, 0.2);
-    background-color: rgb(0,255, 242);
+    background-color: rgb(255, 255, 255);
     border-radius: 4px;
     border: 1px solid white;
     transition: 0.4s;
@@ -51,13 +51,13 @@ a {
 }
 
 .categories button:hover {
-    background-color: #fff;
-    border: 1px solid rgb(0,255, 242);
-    color: rgb(0,255, 242);
+    background-color: #4a4c4d;
+    border: 1px solid rgb(255, 255, 255);
+    font-weight: bold;
 }
 
 a:hover {
-    color: black;
+    color: white;
 }
 
 @media only screen and (max-width: 425px) {
@@ -70,7 +70,7 @@ a:hover {
 
 h2 {
     color: white;
-    text-shadow: rgb(0,255, 242) 1px 0 10px;
+    text-shadow: rgb(255, 255, 255) 1px 0 10px;
     font-size: 40px;
     margin: 20px;
     text-align: center;
@@ -86,8 +86,8 @@ h2 {
     width: 280px;
     height: 400px;
     text-align: center;
-    border: 2px solid rgb(0,255, 242);
-    box-shadow: rgb(0,255, 242) 0 10px 20px -5px;
+    border: 2px solid rgb(255, 255, 255);
+    box-shadow: rgb(255, 255, 255) 0 10px 20px -5px;
     backdrop-filter: blur(6px);
     border-radius: 17px;
     text-align: center;
@@ -120,14 +120,14 @@ h2 {
 .btns button {
     cursor: pointer;
     padding: 10px 20px;
-    background: rgb(0,255, 242);
+    background: rgb(255, 255, 255);
     border: 1px solid white;
     transition: .5s;
 }
 
 .btns button:hover {
     background: rgba(97, 97, 97, 0.58);
-    border: 1px solid rgb(0,255, 242);
+    border: 1px solid rgb(255, 255, 255);
 }
 
 .eventPoster {
@@ -147,7 +147,7 @@ h2 {
 }
 
 footer span {
-    color: rgb(0,255, 242);
+    color: rgb(255, 255, 255);
 }
 
 .pgc {
