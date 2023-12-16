@@ -20,6 +20,40 @@
    Start of custom Webflow CSS
    ========================================================================== */
 
+   /* For smaller screens */
+@media screen and (max-width: 768px) {
+  .external {
+    overflow: auto; /* Allow vertical scrolling on smaller screens */
+    height: auto; /* Reset height */
+  }
+
+  .horizontal-scroll-wrapper {
+    display: block; /* Change from flex to block for vertical stacking */
+    width: auto; /* Allow content to expand width */
+    transform: none; /* Reset transformations */
+    overflow: visible; /* Show full content on smaller screens */
+    padding: 2rem; /* Adjust padding for readability */
+  }
+
+  .img-wrapper {
+    transform: none; /* Reset transformations */
+    display: block; /* Change to block for vertical stacking */
+    min-height: auto; /* Reset minimum height */
+    transition: none; /* Remove transition for instant changes */
+    margin-bottom: 2rem; /* Add margin for separation */
+  }
+
+  .img-wrapper:hover {
+    min-height: auto; /* Reset hover effect for smaller screens */
+  }
+
+  /* Adjustments for smaller images on smaller screens */
+  img {
+    max-width: 100%; /* Allow images to resize based on screen width */
+    max-height: auto; /* Allow images to resize based on screen height */
+  }
+}
+
 
 
    /* hide scrollbar */
@@ -2418,7 +2452,7 @@ li {
     line-height: 22px;
   }
   .key {
-    width: 110px;
+    width: 200px;
   }
   .coin {
     width: 150px;
@@ -2681,7 +2715,7 @@ li {
     height: 80vh;
   }
   .key {
-    width: 110px;
+    width: 200px;
   }
   .coin {
     display: none;
