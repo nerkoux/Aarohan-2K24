@@ -454,7 +454,7 @@ li {
 .bg-main {
   width: 100%;
   height: 100vh;
-  background-image: url("https://taupe-buttercream-28979f.netlify.app/img/gallery/bg.jpg");
+  background-image: url("img/gallery/bg.jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -467,7 +467,7 @@ li {
   overflow: visible;
   width: 100%;
   height: 150vh;
-  background-image: url("https://taupe-buttercream-28979f.netlify.app/img/parallex/bgs.png"); 
+  background-image: url("img/parallex/bgs.png"); 
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2255,6 +2255,27 @@ li {
   padding-bottom: 4% !important;
 }
 }
+
+
+@media (max-width: 1290px) {
+
+  #myVideo{
+    width: 100% !important;
+    height: 100% !important;
+  }
+  }
+
+
+  @media (max-width: 991px) {
+
+    #myVideo{
+      width: 100% !important;
+      height: 100% !important;
+    }
+    }
+  
+
+
 @media (max-width: 991px) {
   #council{
     font-size: 1.7rem !important;
