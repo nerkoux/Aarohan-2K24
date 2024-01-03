@@ -461,7 +461,7 @@ li {
 }
 
 
-fictionalvideo {
+.text-block-parent video {
   z-index: -1;
   position: absolute;
   width: 98vw;
