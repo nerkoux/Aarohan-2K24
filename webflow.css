@@ -1696,7 +1696,7 @@ li {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  width: 80%;
+  width: 100%;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
