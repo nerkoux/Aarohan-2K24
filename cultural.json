@@ -8,7 +8,7 @@ data: {
     reward: 6000,
     categories: ["Cultural"],
     poster:
-      "https://granulate.io/wp-content/uploads/2021/02/Golang-Performance-510x300-1.png",
+      "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FFilm%20Flicker.jpg",
     venue: "PIET CAMPUS / STAGE",
     },
 
@@ -22,7 +22,7 @@ data: {
     reward: 1000,
     categories: ["Cultural"],
     poster:
-      "https://granulate.io/wp-content/uploads/2021/02/Golang-Performance-510x300-1.png",
+      "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FRap%20Battle.jpg",
       venue: "STAGE D BLOCK",
     },
 
@@ -36,7 +36,7 @@ data: {
     reward: 6000,
     categories: ["Cultural"],
     poster:
-      "https://granulate.io/wp-content/uploads/2021/02/Golang-Performance-510x300-1.png",
+      "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FSolo%20Dance%20Competition.jpg",
       venue: "STAGE D BLOCK",
     },
 
@@ -50,7 +50,7 @@ data: {
     reward: 6000,
     categories: ["Cultural"],
     poster:
-      "https://granulate.io/wp-content/uploads/2021/02/Golang-Performance-510x300-1.png",
+      "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FTreasure%20Hunt.jpg",
       venue: "PIET CAMPUS / STAGE",
     },
 
@@ -64,7 +64,7 @@ data: {
     reward: 1800,
     categories: ["Cultural"],
     poster:
-      "https://granulate.io/wp-content/uploads/2021/02/Golang-Performance-510x300-1.png",
+      "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FNukkad%20Natak.jpg",
     venue: "PIET CAMPUS",
     },
 
@@ -78,7 +78,7 @@ data: {
     reward: 6000,
     categories: ["Cultural"],
     poster:
-      "https://granulate.io/wp-content/uploads/2021/02/Golang-Performance-510x300-1.png",
+      "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FDance%20Battle.jpg",
     venue: "STAGE D BLOCK",
     },
 
@@ -92,7 +92,7 @@ data: {
     reward: 6000,
     categories: ["Cultural"],
     poster:
-      "https://granulate.io/wp-content/uploads/2021/02/Golang-Performance-510x300-1.png",
+      "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FJodi%20No.%201.jpg",
       venue: "STAGE D BLOCK",
     },
 
@@ -106,7 +106,7 @@ data: {
     reward: 6000,
     categories: ["Cultural"],
     poster:
-      "https://granulate.io/wp-content/uploads/2021/02/Golang-Performance-510x300-1.png",
+      "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FDoodle%20Art.png",
     venue: "PIET CAMPUS / STAGE",
     },
 
@@ -120,7 +120,7 @@ data: {
     reward: 1000,
     categories: ["Cultural"],
     poster:
-      "https://granulate.io/wp-content/uploads/2021/02/Golang-Performance-510x300-1.png",
+      "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FRangmanch.jpg",
     venue: "STAGE D BLOCK",
     },
 
@@ -134,7 +134,7 @@ data: {
     reward: 700,
     categories: ["Cultural"],
     poster:
-      "https://granulate.io/wp-content/uploads/2021/02/Golang-Performance-510x300-1.png",
+      "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FBeat%20Boxing.jpg",
     venue: "STAGE D BLOCK",
     },
 
@@ -148,7 +148,7 @@ data: {
     reward: 6000,
     categories: ["Cultural"],
     poster:
-      "https://granulate.io/wp-content/uploads/2021/02/Golang-Performance-510x300-1.png",
+      "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FHookstep.jpg",
     venue: "PIET CAMPUS / STAGE",
     },
 
@@ -162,7 +162,7 @@ data: {
     reward: 1200,
     categories: ["Cultural"],
     poster:
-      "https://granulate.io/wp-content/uploads/2021/02/Golang-Performance-510x300-1.png",
+      "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FBest%20Outfit.jpeg",
     venue: "STAGE D BLOCK",
     },
 
@@ -176,7 +176,7 @@ data: {
     reward: 6000,
     categories: ["Cultural"],
     poster:
-      "https://granulate.io/wp-content/uploads/2021/02/Golang-Performance-510x300-1.png",
+      "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FCanvas%20Painting.jpg",
     venue: "PIET CAMPUS / STAGE",
     },
 
@@ -190,7 +190,7 @@ data: {
     reward: 1200,
     categories: ["Cultural"],
     poster:
-      "https://granulate.io/wp-content/uploads/2021/02/Golang-Performance-510x300-1.png",
+      "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FDuo%20Dance%20Competition.webp",
     venue: "STAGE D BLOCK",
     },
 
@@ -204,7 +204,7 @@ data: {
     reward: 6000,
     categories: ["Cultural"],
     poster:
-      "https://granulate.io/wp-content/uploads/2021/02/Golang-Performance-510x300-1.png",
+      "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FOpen%20Mic.jpg",
     venue: "STAGE D BLOCK",
     },
 
@@ -218,6 +218,6 @@ data: {
     reward: 6000,
     categories: ["Cultural"],
     poster:
-      "https://granulate.io/wp-content/uploads/2021/02/Golang-Performance-510x300-1.png",
+      "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FMind%20Fest.png",
     venue: "STAGE D BLOCK"
     },

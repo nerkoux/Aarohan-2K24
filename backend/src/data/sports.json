@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Javelin Throw",
+    "description": "The javelin throw is a track and field event where athletes hurl a spear-like implement known as a javelin as far as possible within a designated throwing area. Athletes generate momentum through a run-up before releasing the javelin over their shoulder with precision and power, aiming for maximum distance.",
+    "isGroup": false,
+    "categories": ["Sports"],
+    "venue": "PIET OUTSIDE GROUND",
+    "poster": "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FJavelin.jpg"
+  },
+  {
+    "name": "Volleyball",
+    "description": "Set, spike, and serve your way to glory in our thrilling volleyball tournament, where teams showcase their skills, camaraderie, and passion for the sport, creating electrifying moments and unforgettable memories for players and spectators alike.",
+    "isGroup": true,
+    "minParticipants": 12,
+    "maxParticipants": 12,
+    "categories": ["Sports"],
+    "venue": "PIET VOLLEYBALL GROUND",
+    "poster": "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FVolleyball.jpg"
+  },
+  {
+    "name": "Carrom",
+    "description": "Carrom Clash: Join us for an epic showdown of skill and strategy in our highly anticipated carrom tournament, where players compete for glory, aiming to sink their way to victory on the pristine green baize.",
+    "isGroup": false,
+    "categories": ["Sports"],
+    "venue": "NEW ROOM",
+    "poster": "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FCarrom.jpg"
+  },
+  {
+    "name": "Chess",
+    "description": "Chess Challenge: Plot your moves, outsmart opponents, and claim victory in our strategic chess tournament, where every move shapes the path to triumph!.",
+    "isGroup": false,
+    "categories": ["Sports"],
+    "venue": "NEW ROOM",
+    "poster": "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FChess.jpg"
+  },
+  {
+    "name": "Box Cricket",
+    "description": "Unleash your cricketing zeal in our box cricket showdown! Fast-paced, close quarters, and full of excitement – a cricket experience like never before.",
+    "isGroup": true,
+    "minParticipants": 6,
+    "maxParticipants": 6,
+    "note": "2 girls compulsory in each team",
+    "categories": ["Sports"],
+    "venue": "PIET OUTSIDE GROUND",
+    "poster": "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FBox%20Cricket.avif"
+  },
+  {
+    "name": "Discus Throw",
+    "description": "Discus throwing is a track and field event where athletes spin within a circle and release a heavy disc-shaped object, aiming for maximum distance. It requires precise technique, strength, and coordination to achieve optimal results.",
+    "isGroup": false,
+    "categories": ["Sports"],
+    "venue": "PIET OUTSIDE GROUND",
+    "poster": "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FDicsus%20Throw.jpg"
+  },
+  {
+    "name": "Long Jump",
+    "description": "The long jump is a track and field event where athletes sprint down a runway and leap as far as possible into a sandpit. It requires explosive speed, technique, and precise timing to achieve maximum distance",
+    "isGroup": false,
+    "categories": ["Sports"],
+    "venue": "PIET OUTSIDE GROUND",
+    "poster": "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FLong%20Jump.jpg"
+  },
+  {
+    "name": "Shot Put",
+    "description": "Shot put is a track and field event where athletes propel a heavy spherical object, typically made of metal, as far as possible. Competitors use a pushing motion from within a seven-foot diameter circle to launch the shot with maximum force, combining strength, technique, and precision for optimal distance.",
+    "isGroup": false,
+    "categories": ["Sports"],
+    "venue": "PIET OUTSIDE GROUND",
+    "poster": "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FShot%20Put.jpg"
+  },
+  {
+    "name": "Sitoliya",
+    "description": "Unleash creativity, intellect, and teamwork in this exhilarating college event blending strategy, innovation, and camaraderie. Elevate your skills",
+    "isGroup": false,
+    "categories": ["Sports"],
+    "venue": "GURUSHIKHAR LANE",
+    "poster": "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FSitoliya.jpg"
+  },
+  {
+    "name": "Squats and Push up",
+    "description": "Challenge your strength and endurance in a dynamic showdown featuring squats and push-ups. Who can conquer the ultimate fitness test.",
+    "isGroup": false,
+    "categories": ["Sports"],
+    "venue": "STAGE",
+    "poster": "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FSquats%20%26%20Pushups.jpg"
+  },
+  {
+    "name": "Three Leg Race",
+    "description": "Hilarious teamwork competition! Strap a leg together, coordinate moves, and race to the finish line triumphantly.",
+    "isGroup": true,
+    "minParticipants": 2,
+    "maxParticipants": 2,
+    "categories": ["Sports"],
+    "venue": "GURUSHIKHAR LANE",
+    "poster": "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FThree%20Leg%20Race.jpg"
+  },
+  {
+    "name": "Tug of war",
+    "description": "Gather your team, dig deep, and unleash your strength in our exhilarating competition, where the battle for supremacy promises thrilling moments of teamwork, determination, and triumph!",
+    "isGroup": true,
+    "minParticipants": 8,
+    "maxParticipants": 8,
+    "categories": ["Sports"],
+    "venue": "VOLLEY BALL GROUND",
+    "poster": "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2FPIET%20Banner%2FPIET%20Banner%2FTug%20of%20War.jpg"
+  }
+]

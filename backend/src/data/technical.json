@@ -1,0 +1,59 @@
+[
+    {
+      "name": "Respawn(BGMI)",
+      "description": "Respawn BGMI, a popular battle royale game, offers intense multiplayer action on mobile platforms. Dive into adrenaline-pumping battles, strategize with your squad, and aim for victory in diverse maps and game modes.",
+      "isGroup": true,
+      "minParticipants": 4,
+      "maxParticipants": 4,
+      "amount": 200,
+      "reward": 4000,
+      "categories": ["Technical", "Gaming"],
+      "venue": "SEMINAR HALL PIET",
+      "poster": "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2F1_BGMI.png"
+    },
+    {
+      "name": "Time Bounded Coding",
+      "description": "Time-bounded coding involves setting precise time constraints for completing coding tasks or projects, promoting efficiency and productivity. This strategy encourages developers to concentrate on delivering functional solutions within predefined timeframes, facilitating project management and meeting deadlines proficiently.",
+      "isGroup": false,
+      "amount": 150,
+      "reward": 1000,
+      "categories": ["Technical", "Coding"],
+      "venue": "SEMINAR HALL PIET",
+      "poster": "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2F1_Race(100%20m).png"
+    },
+    {
+      "name": "Code a UI",
+      "description": "Embark on a journey through our meticulously crafted website, where intuitive design, captivating visuals, and engaging content combine to provide a truly immersive and unforgettable online experience, designed to inform, inspire, and delight visitors at every turn.",
+      "isGroup": false,
+      "amount": 150,
+      "reward": 1000,
+      "categories": ["Technical", "Coding"],
+      "venue": "SEMINAR HALL PIET",
+      "poster": "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2F1_Code%20A%20UI.png"
+    },
+    {
+      "name": "Valor Clash (Valorant)",
+      "description": "Prepare for an exhilarating spectacle of skill and strategy as Valorant takes centre stage at our college event! Witness teams compete in intense, heart-pounding matches, showcasing precision aim, cunning tactics, and teamwork in a thrilling display of esports prowess that will keep you on the edge of your seat!",
+      "isGroup": true,
+      "minParticipants": 5,
+      "maxParticipants": 5,
+      "amount": 300,
+      "reward": 3000,
+      "categories": ["Technical", "Gaming"],
+      "venue": "SEMINAR HALL PIET",
+      "poster": "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2F1_Valorant.png"
+    },
+    {
+      "name": "Shark Tank",
+      "description": "Welcome to the high-stakes world of the Shark Tank, where aspiring entrepreneurs pitch their ideas, navigate tough questions, and vie for investment from seasoned investors, all in pursuit of turning dreams into reality and shaping the future of business.",
+      "isGroup": true,
+      "minParticipants": 5,
+      "maxParticipants": 5,
+      "amount": 150,
+      "reward": 1500,
+      "categories": ["Technical"],
+      "venue": "SEMINAR HALL PIET",
+      "poster": "https://backend.cdn.akshatmehta.com/PIET%20ACTIVITIES%2F1_Pitch.png"
+    }
+  ]
+  
